@@ -1,0 +1,3 @@
+C:/Programs/aITMO/Code c/cmake-build-debug/CMakeFiles/Code_c.dir
+C:/Programs/aITMO/Code c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/aITMO/Code c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
